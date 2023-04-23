@@ -1,5 +1,9 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+  Hi there! I'm a self-taught MERN stack developer with a passion for creating engaging and intuitive user interfaces. My expertise lies primarily in front-end development, but I also enjoy working on the backend and developing full-stack applications.
+
+I love learning new technologies and exploring the latest trends in web development. Whether it's experimenting with new frameworks or optimizing performance, I'm always looking for ways to improve my skills and produce the best possible results.
+
+In my free time, I enjoy contributing to open source projects, attending tech meetups, and tinkering with personal coding projects. Feel free to check out my repositories and get in touch if you'd like to collaborate on a project or have any questions!
 
 
 # 💻 Tech Stack:
